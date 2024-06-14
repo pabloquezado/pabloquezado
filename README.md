@@ -1,20 +1,26 @@
-## Olá! Boas-vindas ao meu perfil 👋
-
-<h3 align="center">Desenvolvedor Full-Stack</h3>
-
+<h5><i>"É a educação que faz o futuro parecer um lugar de esperança e transformação."</i></h5>
+<br>
+<br>
+<h2 align="center">Desenvolvedor Front-End</h2>
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloquezado" alt="pabloquezado" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em **Mobile Games**
+-  Atualmente estou trabalhando em **Projetos Acadêmicos**
 
-- 💻Todos meus projetos estão disponíveis em: [portfolio](portfolio)
+-  Todos meus projetos estão disponíveis em: [portfolio](portfolio)
 
-- 💬 Pergunte-me sobre **HTML, CSS, Javascript,**
+-  Pergunte-me sobre **HTML, CSS, Javascript**
 
-- 👨‍🏫 Graduando em Pedagogia
+-  Graduando em Pedagogia
 
-- ⚡ Fun fact: **Produtor de música eletrônica nas horas vagas**
+<a href="lattes">LATTES</a>
 
-### Blogs posts
+## Prefácio
+Homenageando todos aqueles que tiveram bons professores, meu objetivo aqui é me inspirar em meus mestres e poder colaborar, na mesma forma que fizeram comigo, compartilhando um pouco do seu conhecimento para nós, que se mostra imensurável e valioso. Se procura por projetos dinâmicos, práticos e didáticos, está no lugar certo!
+<br><i><p style="font-size: 10px;">- Pablo Quezado</p></i>
+
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
