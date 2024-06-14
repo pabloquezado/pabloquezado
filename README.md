@@ -14,7 +14,7 @@
 
 -  Graduando em Pedagogia
 
-[![Lattes Badge](https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white&link=http://lattes.cnpq.br/2433599000300626)](http://lattes.cnpq.br/2433599000300626)
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white&link=http://lattes.cnpq.br/2433599000300626)](http://lattes.cnpq.br/3986415920870527)
 
 ## Prefácio
 Homenageando todos aqueles que tiveram bons professores, meu objetivo aqui é me inspirar em meus mestres e poder colaborar, na mesma forma que fizeram comigo, compartilhando um pouco do seu conhecimento para nós, que se mostra imensurável e valioso.<br><br>Se procura por projetos dinâmicos, práticos e didáticos, está no lugar certo!
